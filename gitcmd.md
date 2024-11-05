@@ -16,5 +16,5 @@ git push
 git checkout gitcmd
 
 
-# 合并分支 / 解决合并冲突
+# 合并分支/解决冲突
 git merge origin/gitcmd
