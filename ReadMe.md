@@ -8,6 +8,7 @@
 
 ## Verify
 1. parasite variable
+2. netlist function verification
 
 ## Reference
 1. Static Timing Analysis for Nanometer Designs: A Practical Approach
