@@ -6,10 +6,7 @@
 3. Uart-transmitter
 4. store
 
-## Verify
-1. parasite variable
-2. netlist function verification
-
 ## Reference
 1. Static Timing Analysis for Nanometer Designs: A Practical Approach
 2. advanced digital design with the verilog hdl
+3. https://hdlbits.01xz.net/wiki/Main_Page
