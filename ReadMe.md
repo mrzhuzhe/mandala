@@ -4,7 +4,7 @@
 1. ALU
 2. risc-psm
 3. Uart-transmitter
-4. store
+4. store binary decoder for memory latch
 
 ## Reference
 1. Static Timing Analysis for Nanometer Designs: A Practical Approach
